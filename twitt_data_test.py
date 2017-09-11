@@ -11,7 +11,6 @@ with open ('data_followers_2.json') as infile:
 #pprint.pprint (james)
 for obj in james:
 	pprint.pprint (obj)
-	break
 '''
 created_at
 description
